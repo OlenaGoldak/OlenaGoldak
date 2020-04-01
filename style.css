@@ -28,7 +28,7 @@ div.container{
 
 
 .header {
-	background:url("img1.png") no-repeat;
+	background:url("img/img1.png") no-repeat;
 	background-position: center;
 	height:770px;
 	display: flex;
@@ -67,7 +67,7 @@ div.container{
 }
 
 .logo {
-	 background: url("logo.png") no-repeat;
+	 background: url("img/logo.png") no-repeat;
 	 background-position: left;
 	 height:23px;
 	 width:95px;
@@ -264,7 +264,7 @@ div.container{
 }
 
 .butt2 {
-	background:url("icon2.png") no-repeat;
+	background:url("img/icon2.png") no-repeat;
 	background-position: center;
 	background-color: none;
 	width:90px;
@@ -279,14 +279,14 @@ div.container{
 }
 
 .butt2:hover {
-	background:url("icon2.png") no-repeat;
+	background:url("img/icon2.png") no-repeat;
 	background-position: center;
 	background-color: rgba(192,48,28,0.6);
 	color:white;
 }
 
 .butt3 {
-	background:url("icon3.png") no-repeat;
+	background:url("img/icon3.png") no-repeat;
 	background-position: center;
 	background-color: none;
 	width:90px;
@@ -301,7 +301,7 @@ div.container{
 }
 
 .butt3:hover {
-	background:url("icon3.png") no-repeat;
+	background:url("img/icon3.png") no-repeat;
 	background-position: center;
 	background-color: rgba(192,48,28,0.6);
 	color:white;
@@ -483,7 +483,7 @@ div.butt_in_block2 {
 }
 
 button.butt-arrow, .butt-arrow2 {
-		background:url("left1.png") no-repeat;
+		background:url("img/left1.png") no-repeat;
 		background-position: center;
 		width:36px;
 		height:40px;
@@ -495,7 +495,7 @@ button.butt-arrow, .butt-arrow2 {
 	}
 
 .butt-arrow2 {
-		background:url("left.png") no-repeat;
+		background:url("img/left.png") no-repeat;
 		background-position: center;
 		background-color: #8f8f8f;
 	}
@@ -535,7 +535,7 @@ div.butt-row3{
 		}
 
 a.butt5-facebook, .butt6-twitter, .butt7-google, .butt7-in {
-			background:url("facebook.png") no-repeat;
+			background:url("img/facebook.png") no-repeat;
 	 		background-position:center;
 	 		width:28px;
 	 		height:28px;
@@ -560,17 +560,17 @@ a.butt7-in:hover {
 }
 
 a.butt6-twitter {
-	 	background:url("twitter.png") no-repeat;
+	 	background:url("img/twitter.png") no-repeat;
 	 	background-position: center;
 	 }
 
 a.butt7-google {
-		background:url("google.png") no-repeat;
+		background:url("img/google.png") no-repeat;
 		background-position: center;
 }
 
 a.butt7-in {
-		background:url("in.png") no-repeat;
+		background:url("img/in.png") no-repeat;
 		background-position: center;
 }
 
@@ -750,7 +750,7 @@ div.overlay-row {
   button.butt_in_photo {
  	  width:100px;
  		height:40px;
- 		background-image: url("left3.png");
+ 		background-image: url("img/left3.png");
  		background-position:80% 50%;
  		background-repeat: no-repeat;
  		background-color: white;
@@ -770,7 +770,7 @@ div.overlay-row {
   }
 
 .butt_in_photo:active {
- 		background-image: url("left4.png");
+ 		background-image: url("img/left4.png");
  		background-size: 10px;
  		background-repeat: no-repeat;
  		background-position:80% 50%;
@@ -832,7 +832,7 @@ div.overlay-row {
 
 .section3 {
 		 color:#555555;
-		 background:url("img29.png") no-repeat;
+		 background:url("img/img29.png") no-repeat;
 	   background-position: center center;
 	 	 height:368px;
 	 	 position: relative;
@@ -896,21 +896,21 @@ ul.calendar-column {
 	margin-left: 30px;
 }
 div.calendar-photo {
-	background:url("img28.png") no-repeat;
+	background:url("img/img28.png") no-repeat;
 	background-position: left;
 	width:460px;
 	height: 322px;
 }
 
 div.calendar-photo2 {
-	background:url("img27.png") no-repeat;
+	background:url("img/img27.png") no-repeat;
 	background-position: left;
 	width:460px;
 	height: 322px;
 }
 
 div.line3 {
-	background: url("line3.png") no-repeat;
+	background: url("img/line3.png") no-repeat;
 	/* background-position:100% 100%; */
 	height:3px;
 }
@@ -1124,29 +1124,29 @@ ul.social-icon-row {
 	}
 
 li.icon-1,.icon-2,.icon-3,.icon-4,.icon-5 {
-		background:url("icon30.png") no-repeat;
+		background:url("img/icon30.png") no-repeat;
 		background-position: center;
 		width: 160px;
 		height:48px;
 	}
 
 li.icon-2 {
-		background:url("icon31.png") no-repeat;
+		background:url("img/icon31.png") no-repeat;
 		background-position: center;
 	}
 
 li.icon-3 {
-		background:url("icon33.png") no-repeat;
+		background:url("img/icon33.png") no-repeat;
 		background-position: center;
 	}
 
 li.icon-4 {
-		background:url("icon32.png") no-repeat;
+		background:url("img/icon32.png") no-repeat;
 		background-position: center;
 	}
 
 li.icon-5 {
-		background:url("icon34.png") no-repeat;
+		background:url("img/icon34.png") no-repeat;
 		background-position: center;
 	}
 
@@ -1256,14 +1256,14 @@ li.contact_info {
 	 }
 
 div.icon_123 {
-		 background:url("icon123.png") no-repeat;
+		 background:url("img/icon123.png") no-repeat;
 		 background-position: center center;
 		 width: 15px;
 		 height: 18px;
 	 }
 
 div.icon_456, .icon_789 {
-		 background:url("icon456.png") no-repeat;
+		 background:url("img/icon456.png") no-repeat;
 		 background-position: center center;
 		 width: 15px;
 		 height: 20px;
@@ -1271,7 +1271,7 @@ div.icon_456, .icon_789 {
 	 }
 
 div.icon_789 {
-		 background:url("icon789.png") no-repeat;
+		 background:url("img/icon789.png") no-repeat;
  		 background-position: center center;
 		}
 
@@ -1506,21 +1506,21 @@ div.ellipse:hover {
 }
 
 .t-icon {
-		background:url("fa-twitter1.png") no-repeat;
+		background:url("img/fa-twitter1.png") no-repeat;
  		background-position: center;
  		width: 33px;
  		height: 33px;
 }
 
 .t-icon:hover {
-		background:url("fa-twitter2.png") no-repeat;
+		background:url("img/fa-twitter2.png") no-repeat;
 		background-position: center;
 		width: 33px;
 		height: 33px;
 }
 
 div.line2 {
-		background:url("line2.png") no-repeat;
+		background:url("img/line2.png") no-repeat;
 		/* background-position: center; */
 		width: 50px;
 		height: 2px;
